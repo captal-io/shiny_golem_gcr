@@ -1,0 +1,7 @@
+.env
+.Renviron
+.Renviron_github_pat
+.DS_Store
+
+client.json
+captal-sandbox-andryas-test.json
